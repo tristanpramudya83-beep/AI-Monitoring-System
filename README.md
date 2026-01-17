@@ -94,7 +94,7 @@ This is an advanced, AI-driven IoT monitoring dashboard and agent built for mode
 ### **1. Dashboard (Python Flask)**  
 ```bash
 git clone <your-repo>
-cd dashboard
+cd scr
 pip install -r requirements.txt
 python dashboard_modern.py
 ```
