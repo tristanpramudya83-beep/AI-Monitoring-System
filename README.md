@@ -164,7 +164,7 @@ MIT License – free for personal and commercial use.
 Clone the repo and see the future of infrastructure intelligence today.  
 
 ```bash
-git clone https://github.com/your-username/ai-monitoring-system.git
+git clone https://github.com/your-username/AI-Monitoring-System.git
 ```
 
 ---
