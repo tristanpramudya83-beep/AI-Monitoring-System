@@ -123,7 +123,7 @@ gcc agent_modern.c -o agent.exe -lws2_32 -lpdh -lpsapi
 
 ## 📈 **Dashboard Preview**  
 
-![Dashboard Preview](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=AI+Monitoring+Dashboard+v3.0)  
+![Dashboard Preview](https://raw.githubusercontent.com/tristanpramudya83-beep/AI-Monitoring-System/main/screenshots/dashboard_preview.png)
 *Sleek dark UI with live charts, alerts, and health scores.*
 
 ---
