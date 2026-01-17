@@ -93,7 +93,7 @@ This is an advanced, AI-driven IoT monitoring dashboard and agent built for mode
 
 ### **1. Dashboard (Python Flask)**  
 ```bash
-git clone <your-repo>
+git clone https://github.com/tristanpramudya83-beep/AI-Monitoring-System.git
 cd scr
 pip install -r requirements.txt
 python dashboard_modern.py
@@ -164,7 +164,7 @@ MIT License – free for personal and commercial use.
 Clone the repo and see the future of infrastructure intelligence today.  
 
 ```bash
-git clone https://github.com/your-username/AI-Monitoring-System.git
+git clone https://github.com/tristanpramudya83-beep/AI-Monitoring-System.git
 ```
 
 ---
